@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="result/result.jpg" width="480" alt="main_image" /><br>
-    <b>result image(watch the full video below)</b><br>
+    <b>result image</b><br>
 </p>
 
 ## Introduction  
