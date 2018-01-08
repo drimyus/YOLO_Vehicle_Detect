@@ -1,4 +1,4 @@
-# Vehicle Detection(tiny YOLO and samll YOLO)
+# Vehicle Detection(tiny YOLO and small YOLO)
 
 <p align="center">
     <img src="result/result.jpg" width="480" alt="main_image" /><br>
